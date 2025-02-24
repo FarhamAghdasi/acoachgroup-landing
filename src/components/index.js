@@ -1,0 +1,13 @@
+export { default as Banner } from './Banner';
+export { default as Contact } from './Contact';
+export { default as Contact1 } from './Contact1';
+export { default as Contact2 } from './Contact2';
+export { default as Enamad } from './Enamad';
+export { default as Footer } from './Footer';
+export { default as Hero } from './Hero';
+export { default as Star } from './Star';
+export { default as Star2 } from './Star2';
+export { default as Star3 } from './Star3';
+export { default as Video } from './Video';
+export { default as UnderBanner } from './UnderBanner';
+export { default as UnderBanner2 } from './UnderBanner2';
